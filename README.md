@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xJeu!
-- 👀 I’m interested in all things web development and the overall advancement of computers
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in the overall advancement of technological innovation
+- 🌱 I’m currently learning AI. I made an agent called GG
 - 🤝🏾 I’m looking to collaborate on open source projects and projects that can lead to bettering humankind.
 - 📫 How to reach me: My Twitter DMs
 
