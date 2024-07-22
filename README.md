@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @0xJeu!
-- 👀 I’m interested in the overall advancement of technological innovation
-- 🌱 I’m currently learning AI. I made an agent called GG
-- 🤝🏾 I’m looking to collaborate on open source projects and projects that can lead to bettering humankind.
-- 📫 How to reach me: My Twitter DMs
+👋 Hi, I’m @0xJeu!
+
+👀 I’m passionate about advancing technological innovation and exploring new possibilities in web development. Currently, I’m focused on creating innovative solutions one repository at a time!
+
+📚 Eager to expand my skills in web development and continually learn and grow through hands-on projects.
+
+🤝🏾 Open to collaborating on open-source projects and initiatives that aim to impact the world positively.
+
+---
+
+**🔧 Stack:**
+- **Languages**: Python, JavaScript, TypeScript
+- **Frameworks**: Next.js, React, Django
+- **Tools**: Git, Docker, Cursor
+- **Databases**: MongoDB
+- **APIs**: REST
+- **Cloud**: AWS, Vercel
+
+📫 Feel free to reach out via my [Twitter DMs](https://twitter.com/messages/compose?recipient_id=YOUR_TWITTER_ID).
+
+---
 
 <!---
 0xJeu/0xJeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
