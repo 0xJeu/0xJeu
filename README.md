@@ -14,7 +14,6 @@
 - **Tools**: Git, Docker, Cursor
 - **Databases**: MongoDB
 - **APIs**: REST
-- **Cloud**: AWS, Vercel
 
 📫 Feel free to reach out via my [Twitter DMs](https://twitter.com/messages/compose?recipient_id=YOUR_TWITTER_ID).
 
