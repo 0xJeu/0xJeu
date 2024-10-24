@@ -10,7 +10,7 @@
 
 **🔧 Stack:**
 - **Languages**: Python, JavaScript, TypeScript, Java
-- **Frameworks**: Next.js, React, Django
+- **Frameworks**: Next.js, React
 - **Tools**: Git, Docker, Cursor
 - **Databases**: MongoDB
 - **APIs**: REST
