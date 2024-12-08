@@ -24,6 +24,9 @@
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+- ![ChatGPT](https://img.shields.io/badge/ChatGPT-34A853?style=flat&logo=openai&logoColor=white)
+- ![Claude](https://img.shields.io/badge/Claude-FFB900?style=flat&logo=anthropic&logoColor=white)
+
 
 #### **Databases**
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
