@@ -36,13 +36,14 @@
 - ![REST API](https://img.shields.io/badge/-REST%20API-0052CC?style=flat&logo=api&logoColor=white)
 
 ---
-
+<!---
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xJeu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xJeu&layout=compact&theme=radical)
 
 ---
+---->
 
 ### 🌱 Current Goals
 - Enhance my expertise in **Java development**, including **Spring Framework** and **unit testing with JUnit**.
