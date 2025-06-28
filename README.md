@@ -55,7 +55,7 @@
 ### 📫 Let's Connect
 - 🐦 [Twitter DMs](https://twitter.com/messages/compose?recipient_id=YOUR_TWITTER_ID)
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 [Personal Portfolio](https://your-portfolio-url.com)
+- 🌐 [Personal Portfolio](https://portfolio-ts-virid.vercel.app/)
 
 ---
 
